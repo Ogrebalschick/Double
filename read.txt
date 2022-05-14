@@ -1,0 +1,4 @@
+1) del rar file "doubleReady.rar"
+2) rewrite all  datebases and pass.
+
+This release don't ready version. Needed in rework. (del unnecessary files that was integrated with old version)
